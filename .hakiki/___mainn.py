@@ -1,0 +1,1 @@
+print 'Hai su:v'
