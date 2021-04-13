@@ -1,0 +1,318 @@
+#coding=utf-8
+#rexode aja gpp kok
+# dasar anak komtollll
+#python2
+import requests,os,re,time,sys,bs4
+
+print  '\1b[1;91m'
+
+baner = """ _____ _           _   ___ ____    _____ ____
+|  ___(_)_ __   __| | |_ _|  _ \  |  ___| __ )
+| |_  | | '_ \ / _` |  | || | | | | |_  |  _ \
+
+|  _| | | | | | (_| |  | || |_| | |  _| | |_) |
+|_|   |_|_| |_|\__,_| |___|____/  |_|   |____/\n"""
+
+
+merah = '\1b[1;91m'
+lime = '\1b[1;92m'
+kuning = '\1b[1;93m'
+biru = '\1b[1;94m'
+ungu = '\1b[1;95m'
+blue = '\1b[1;96m'
+putih = '\1b[1;97m'
+tutup = '\1b[0m'
+
+def ratu():
+	os.system("""
+git clone https://github.com/gillang15/RATU_ERROR
+cd RATU_ERROR
+python2 RATU_ERROR.py
+""")
+
+def mafia():
+	os.system("""
+git clone https://github.com/Tech-abm/Fb-Mafia
+cd Fb-Mafia
+pip2 install mechanize
+pip2 install requests
+python2 Dark-Cloning.py
+""")
+
+def dap():
+    os.system("""
+pkg update && upgrade
+pkg install python2
+pkg install git
+pip install request bs4
+pip2 install requests
+pip2 install mechanize
+git clone https://github.com/Dapunta/crackfb4
+cd crackfb4
+python2 crackfb4.py
+""")
+ 
+def meta():
+	os.system("""
+pkg update && pkg upgrade
+pkg install python
+pkg install python2
+pkg install wget
+pkg install curl
+pkg install ruby
+pkg install bash
+pkg install nmap
+curl -LO raw.githubusercontent.com/Hax4us/metasploit_termux/master/metasploit.sh
+chmod 777 metasploit.sh
+./metasploit.sh
+cd metasploit-framework
+bundle update --bundler
+""")
+
+def kontol():
+	os.system("""
+pkg update && pkg upgrade
+pkg install python2
+ pkg install git
+pip2 install mechanize
+pip2 install bs4
+pip2 install requests
+git clone https://github.com/ROMI-AFRZL/fbcracker
+cd fbcracker
+ls
+python2 fb.pyc
+""")
+
+
+def romi():
+	os.system("""
+pkg update && pkg upgrade 
+pkg install python2 
+pip2 install futures 
+pip2 install mechanize 
+pip2 install bs4 
+pip2 install requests 
+pkg install git 
+git clone https://github.com/ROMI-AFRZL/simple 
+cd simple 
+ls 
+python2 simple.py
+""")
+
+
+
+def rizal1():
+	os.system("""
+pkg install python git
+git clone https://github.com/Rizal-XD/crackv3
+pip install requests
+pip install mechanize
+pip install futures
+cd $HOME/crackv3
+python run.py
+""")
+
+
+def Latip176():
+    os.system("""
+pkg install python -y
+pkg install python3
+pkg install git -y
+git clone https://github.com/Latip176/crackv3
+cd crackv3
+pip install pyfiglet
+pip install requests
+pip install bs4
+python3 crack.py
+"")
+
+def rizal():
+	os.system("""
+pkg update upgrade
+pkg install python2 git
+git clone https://github.com/Rizal-XD/prem
+cd prem
+pip2 install requests
+pip2 install bs4
+pip2 install futures
+pip2 install mechanize
+rm -rf profig.os
+cd $HOME/prem
+python2 run.py
+""")
+
+def dmbf():
+	os.system("""
+pkg update && pkg upgrade
+pkg install python git
+pip install requests bs4 futures cython
+rm -rf dmbf
+git clone https://github.com/dz-id/dmbf
+cd $HOME/dmbf
+cythonize -i brute.c && rm brute.c
+python run.py
+""")
+
+def latip():
+	os.system("""
+pkg install python -y
+pkg install python3
+pkg install git -y
+git clone https://github.com/Latip176/crackfb
+pip install requests
+pip install pyfiglet
+pip install bs4
+cd crackfb
+python3 crack.py
+""")
+
+def repot():
+	os.system("""
+git clone https://github.com/kumpulanremaja/report
+cd report
+python2 report.py
+""")
+def MBF():
+	os.system("""
+git clone https://github.com/Yayan-XD/MBF
+cd MBF
+bash setup.sh
+""")
+
+def tebas():
+	os.system("""
+pkg update && pkg upgrade
+pkg install bash
+pkg install python2
+pkg install git
+git clone https://github.com/Mr-xDODOL/tebas
+cd tebas
+sh Tebas.sh
+""")
+
+
+def ganz():
+	os.system("""
+pkg update && pkg upgrade
+pkg install python2
+pip2 install requests
+pip2 install mechanize
+pkg install git
+git clone https://github.com/ARIYA-CYBER/NEW
+cd NEW
+python2 FbNew.py
+""")
+
+def alay():
+	os.system("""
+git clone https://github.com/CL4YPRO/clay
+cd clay
+python2 clay.py
+""")
+
+def wa():
+	os.system("xdg-open  https://api.whatsapp.com/send?phone=+6285946352369&text=Assalamualaikum")
+	os.sys.exit
+def kontol():
+	os.system("""
+pkg install wget -y
+pkg install pv -y
+git clone https://github.com/LimitQueenProject/empas
+cd empas
+pkg install bash
+bash empas
+""")
+
+def xbom():
+	os.system("""
+pkg install git
+pkg install python
+git clone https://github.com/TheSpeedX/TBomb.git
+cd TBomb
+chmod +x TBomb.sh
+./TBomb.sh
+""")
+print  '\1b[1;91m'
+os.system('clear')
+print baner
+print '===========================================================[========]'   
+print '[   \33[31;1mnama script                         \33[31;1m[ status ]'
+print '==========================================================='
+print '1. \33[32;1mscript 3 methode                      ][bekerja]'
+print '2. \33[32;1mscript Sensei                         ][bekerja]'
+print '3. \33[32;1mscript CFBID NEW                      ][bekerja]'
+print '4.  \33[32;1mscript CFBID2                        ][bekerja]'
+print '5.\33[32;1mScript Cloning indo                    ][bekerja]'
+print '6. \33[32;1mScript encrypt python2.               ][bekerja]'
+print '7. \Script DMBF(premium)                 ][bekerja]'
+print '8. script crack by(latip)                ][bekerja]'
+print '9. script prem by(Rizal-XD)              ][bekerja]'
+print '10. script crackv3 by(Rizal-XD)          ][bekerja]'
+print '11.script Crackfb simpel by(Romi afrzl)  ][bekerja]'
+print '12.script fbchecker by (ROMI AFRZL)]     ][bekerja]'
+print '13.script install metasploit             ][bekerja]'
+print '14. script FB Mafia                      ][Bekerka]'
+print '15. Script Ratu error                    ][bekerja]'
+print '16. script MBF-2 by(Yayan)               ][bekerja]'
+print '17. script tebas web                     ][bekerja]'
+print '18. script report fb                     ][bekerja]'
+print '19. sc hackfb new                        ][bekerja]'
+print '20. sc craccker                          ][bekerja]'
+print '21. script Montong cheker                ][bekerja]'
+print '22. script crackfb4                      ][bekerja]'
+print '23. script crackv3'
+
+while True:
+	p = raw_input('HAKIKIXC>/ ')
+	if p=="":
+		print '× Masukkan yg benar'
+	elif p=="1":
+		os.system('pkg update && pkg upgrade && pkg install git && pkg install python && pip install requests && pip install bs4 && pip install futures && pip2 install requests && pip2 install bs4 && pip2 install fufures && git clone https://github.com/Rizal-XD/crack-3m && cd $HOME/crack-3m && python run.py')
+	elif p=="2":
+		os.system('pkg install python2 && git  && pip2 install requests mechanize tqdm && git clone https://github.com/BOT-033/Sensei && cd Sensei && chmod +x * && python2 main.py')
+	elif p=="3":
+		os.system('pkg update && pkg upgrade&& pkg install python2 && pip2 install requests && pip2 install mechanize && pkg install git && git clone https://github.com/anggaxd/cfbid && cd cfbid &&python2 crack.py')
+	elif p=="4":
+		os.system('pkg install python2 git && pip2 install requests mechanize && git clone https://github.com/anggaxd/cfbid2 && cd cfbid2 && python2 run.py')
+	elif p=="5":
+		os.system('pkg install bash && git clone https://github.com/ Hakiki-XC/FBiv1 && cd FBiv1 && bash install.sh')
+	elif p=="6":
+		os.system(' && pkg update && pkg install git  && git clone https://github.com/avsid/pyenc && cd pyenc && python2 pyenc.py')
+	elif p=="7":
+		dmbf()
+	elif p=="8":
+		latip()
+	elif p=="9":
+		rizal()
+	elif p=="10":
+		rizal1()
+	elif p=="11":
+		romi()
+	elif p=="12":
+		kontol()
+	elif p=="13":
+		meta()
+	elif p=="14":
+		mafia()
+	elif p=="15":
+		ratu()
+	elif p=="16":
+		MBF()
+	elif p=="17":
+		tebas()
+	elif p=="18":
+		repot()
+	elif p=="19":
+		ganz()
+	elif p=="20":
+		alay()
+	elif p=="21":
+		kontol()
+	elif p=="22":
+	    dap()
+	elif p=="23":
+	    Latip176()
+	else:
+		print 'lu mau gw santet ha anjg'
+
+
